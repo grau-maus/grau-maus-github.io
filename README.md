@@ -1,1 +1,1 @@
-# grau-maus-github.io
+# grau-maus.github.io
