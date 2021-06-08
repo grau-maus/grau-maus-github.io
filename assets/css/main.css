@@ -3997,3 +3997,13 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	p#project-link {
+		margin-top: 40px;
+		margin-bottom: -20px;
+		font-size: 1.5rem;
+	}
+
+	ul#menu-sidebar > li > a:hover {
+		background-color: #21b2a6;
+	}
